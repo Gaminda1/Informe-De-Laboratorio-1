@@ -136,15 +136,14 @@ Por lo que la tabla completa con los valores es:
 
   Grafica. Trayectoria y Nodos del Circuito
   
-  ![image](https://user-images.githubusercontent.com/105458670/169484284-55e701c9-dbb5-4717-9fce-54a8baa8f204.png)
-
+  ![image](https://user-images.githubusercontent.com/105458670/169484596-0cc7d865-2bf1-4fe5-9591-c6aecd0116a2.png)
 
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
      Tabla 1.2. Verificación de la LVK.
 
- ![image](https://user-images.githubusercontent.com/93960809/141886616-ea2cdd8c-f1ba-43e8-855c-8da71e25935a.png)
+ ![image](https://user-images.githubusercontent.com/105458670/169486803-5936ca88-cc3c-49a8-800c-ebe3c9e9dbd7.png)
 
 Para la realización de los cálculos mostrados en la tabla 1.2 en primer lugar se identificó cada una de las trayectorias existentes dentro del circuito mixto.
 Posterior a eso, se realiza la suma total de resistencias presentes dentro de cada trayectoria, para así poder aplicar la ley de Ohm que nos dice que: 
@@ -164,21 +163,21 @@ Al reemplazar los valores de voltajes en la ley de Kirchhoff y obtener una igual
 
 A continuación, el ejemplo de cómo se realizaron los cálculos para la trayectoria 1. Y ese mismo proceso se aplicó para todas las trayectorias.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105458670/169484638-8d1b0026-feb8-4a08-ae90-b4af38c8074e.png)
 
 Como último punto a tratar de la sección 1.5.3, se mostrará la realización y medición de cada uno de los trayectos del circuito elaborados en Tinkercad:
 
      Trayectoria 1: 
 
-![image](https://user-images.githubusercontent.com/93960809/141888796-ae9f434b-c792-40f4-aa6b-fa233ddd27a3.png)
+![image](https://user-images.githubusercontent.com/105458670/169484704-db5ea121-5ed4-4ca9-891b-18443a702f30.png)
 
      Trayectoria 2: 
 
-![image](https://user-images.githubusercontent.com/93960809/141888835-ef8bc7f0-9ab9-4448-9e1d-1eaf8d6bc68b.png)
+![image](https://user-images.githubusercontent.com/105458670/169485526-71b8ac6f-31d6-4d36-9dfa-87e775b7705b.png)
 
      Trayectoria 3: 
 
-![image](https://user-images.githubusercontent.com/93960809/141888867-23a9f693-99fb-4d0b-b6ca-21b982f0b7ea.png)
+![image](https://user-images.githubusercontent.com/105458670/169486839-dd88fd05-4a96-4d88-96fc-1dac5296a916.png)
 
 
 1.5.4.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3 . 
