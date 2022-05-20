@@ -88,7 +88,7 @@ Esta Ley poseé algunas propiedades:
 
 1.5. PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/94008521/141698943-d44b089d-893e-420c-93d5-28869c028a52.png)
+![image](https://user-images.githubusercontent.com/105458670/169569697-34ba972b-413a-44f1-a272-41bb391d4b4c.png)
 
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
@@ -239,7 +239,8 @@ Para el voltaje en cada resistencia se tiene que:
 
 ![image](https://user-images.githubusercontent.com/105458670/169567748-24272cdc-f1ec-463d-af73-1618d689f262.png)
 
-1.6. VIDEO
+1.6. VIDEO:
+https://www.youtube.com/watch?v=vKiG6OS4OEE
 
 
 
