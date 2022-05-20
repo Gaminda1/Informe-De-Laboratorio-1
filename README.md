@@ -94,13 +94,13 @@ Esta Ley poseé algunas propiedades:
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/94008521/141877995-9055f06f-3e77-4481-bf45-a9da0325591c.png)
+![image](https://user-images.githubusercontent.com/105458670/169471284-f1eaccd5-a303-47f1-8c8b-32c466ab0ed9.png)
 
-![image](https://user-images.githubusercontent.com/94008521/141876411-7ee793cd-4ee3-4475-9ce7-acbba8f42e05.png)
+![image](https://user-images.githubusercontent.com/105458670/169471297-eafe59c4-60d7-4b31-bc84-6935b71706d2.png)
 
-Ahora procedemos a realizar los calculos de los valores de voltajes y corrientes:
+.-Ahora procedemos a realizar los calculos de los valores de voltajes y corrientes:
 
-![image](https://user-images.githubusercontent.com/94008521/141876767-a4377eac-4988-43e0-a528-47a4ffa2d46a.png)
+![image](https://user-images.githubusercontent.com/105458670/169471777-5d7d7b06-8143-47bd-99af-96644d52dcce.png)
 
 Los siguiente valores obtenidos son aplicando la Ley de Voltajes de Kirchhoff:
 
@@ -108,7 +108,7 @@ Para poder determinar el voltaje que existe en cada resistencia se debe calcular
 
 MALLA 1:
 
-![image](https://user-images.githubusercontent.com/94008521/141877326-768a93c6-a38b-4f76-916d-324eb32cac16.png)
+![image](https://user-images.githubusercontent.com/105458670/169473110-83e501f6-9c4f-45ce-b0e8-519e44b96b80.png)
 
 MALLA 2:
 
@@ -116,7 +116,7 @@ MALLA 2:
 
 Por lo cual al resolver las ecuaciones (1) y (2) a través de un sistema de ecuaciones se tiene que:
 
-![image](https://user-images.githubusercontent.com/94008521/141877920-cf92a3e0-08e9-41ac-a247-fef9eab8bf28.png)
+![image](https://user-images.githubusercontent.com/105458670/169473408-5a820bc2-44cf-41df-983d-30acc86ee244.png)
 
 Ahora aplicando las siguiente definiciones de circuitos series y paralelo.
 
@@ -127,18 +127,16 @@ Ahora aplicando las siguiente definiciones de circuitos series y paralelo.
 
 Se tiene que el voltaje y la corriente en cada resistencia es: 
 
-![image](https://user-images.githubusercontent.com/94008521/141879028-9b746d92-d385-43d9-bb07-d9258fe31ff5.png)
+![image](https://user-images.githubusercontent.com/105458670/169474082-17e70de9-4efb-4b6a-b292-e23a75cc3913.png)
 
 Por lo que la tabla completa con los valores es:
 
-![image](https://user-images.githubusercontent.com/94008521/141879377-0c0f702e-db98-4ba8-9bfd-1a9688f9535f.png)
-
-![image](https://user-images.githubusercontent.com/93415377/141890848-88f841c5-8562-442e-8466-da30bcd5c16b.png)
+![image](https://user-images.githubusercontent.com/105458670/169474388-38ec619a-ce41-4368-8947-8adc258e3e38.png)
 
 
   Grafica. Trayectoria y Nodos del Circuito
   
-  ![image](https://user-images.githubusercontent.com/93415377/141895273-a5de0650-5ec8-49b0-99ee-a8474a60b86d.png)
+  ![image](https://user-images.githubusercontent.com/105458670/169484284-55e701c9-dbb5-4717-9fce-54a8baa8f204.png)
 
 
 
@@ -166,7 +164,7 @@ Al reemplazar los valores de voltajes en la ley de Kirchhoff y obtener una igual
 
 A continuación, el ejemplo de cómo se realizaron los cálculos para la trayectoria 1. Y ese mismo proceso se aplicó para todas las trayectorias.
 
-![CamScanner 11-15-2021 21 48-1](https://user-images.githubusercontent.com/93960809/141888254-1b48e7d1-95c2-496d-9cf8-c36304d6e892.jpg)
+![Uploading image.png…]()
 
 Como último punto a tratar de la sección 1.5.3, se mostrará la realización y medición de cada uno de los trayectos del circuito elaborados en Tinkercad:
 
