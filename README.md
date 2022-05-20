@@ -187,34 +187,34 @@ Como último punto a tratar de la sección 1.5.3, se mostrará la realización y
 La intensidad de corriente en el Nodo 1 va a ser igual a la intensidad
 
 
-![image](https://user-images.githubusercontent.com/93415377/142005148-b05e62c7-4a99-449c-a21a-09e3051d87a0.png)
+![image](https://user-images.githubusercontent.com/105458670/169553140-e25d5310-c344-4ee4-97eb-e53e4d1a1557.png)
 
 - Para el Nodo 2
 
 
-![image](https://user-images.githubusercontent.com/93415377/142015880-075a65cd-5bff-48c3-a834-d08f791b95ac.png)
+![image](https://user-images.githubusercontent.com/105458670/169555153-33b93b54-9130-4aaf-ad71-560e7904d4d6.png)
 
 - Para el Nodo 3
 
 
-![image](https://user-images.githubusercontent.com/93415377/142018890-2c21c3f8-0d0d-4d70-8572-a5a7000cb85c.png)
+![image](https://user-images.githubusercontent.com/105458670/169556130-f3b36409-473a-4299-ac4e-bb2a08fee104.png)
 
 - Para el Nodo 4
 
 
-![image](https://user-images.githubusercontent.com/93415377/142020627-715acc1e-aa8b-4eb8-ae31-66e38672ef58.png)
+![image](https://user-images.githubusercontent.com/105458670/169560008-afda977b-f962-4913-9709-731d083d60c5.png)
 
 - Para el Nodo 5 
 
 
-![image](https://user-images.githubusercontent.com/93415377/142020973-a2d7ca88-c85d-48b5-9fcb-0f0980111b42.png)
+![image](https://user-images.githubusercontent.com/105458670/169560408-5fcfe44a-da92-46dc-b2ae-ef1563bd442f.png)
 
 
 
 
   Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/93415377/142021156-b96e90a9-7a29-4f26-a900-71154dddcefc.png)
+![image](https://user-images.githubusercontent.com/105458670/169565229-c4ae1ec7-4162-4b11-8faa-02f629839bff.png)
 
 
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -233,20 +233,15 @@ Para el calculo de los errores se utilizará la siguiente formula:
 
 Para la intensidad de corriente en las resistencias se tiene:
 
-![image](https://user-images.githubusercontent.com/94008521/141881076-6bdaf5fc-952d-4280-82de-b0d9bd0bdd67.png)
+![image](https://user-images.githubusercontent.com/105458670/169567397-b4aadfc3-f7d7-4918-ac15-fbefd44ba56e.png)
 
 Para el voltaje en cada resistencia se tiene que:
 
-![image](https://user-images.githubusercontent.com/94008521/141881264-65bb3961-5562-4d31-9286-159692374ca4.png)
-
-Para obtener el porcentaje de error que se produce al realizar los cálculos de voltaje por trayectorias comparado con sus mediciones tomadas del laboratorio virtual Tinkercad, se tiene lo siguiente en las trayectorias 1, 2 y 3: 
-
-![image](https://user-images.githubusercontent.com/93960809/141890062-4d3e04a9-68af-4bfc-b0f0-366afad5e0aa.png)
-
+![image](https://user-images.githubusercontent.com/105458670/169567748-24272cdc-f1ec-463d-af73-1618d689f262.png)
 
 1.6. VIDEO
 
-https://youtu.be/BfetnMlSNZE
+
 
 1.7. CONCLUSIONES
 
